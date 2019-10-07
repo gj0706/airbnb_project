@@ -1,21 +1,9 @@
 # Exploring Seattle Airbnb Data
 
-## Introduction
+### Table of Contents
 
-### 1. Motivation
-
-### 2. Data
-
-### 3. Methods
-
-### 4. Results
-
-## Installations
-
-
-
-## File Description
-
-## 
-
-## Acknowledgements
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Description](#files)
+4. [Results](#results)
+5. [Acknowledgements](#licensing)
